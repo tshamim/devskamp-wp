@@ -1,0 +1,19 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) :
+    exit; // Exit if accessed directly
+endif;
+
+function tt_vc_template_home_portfolio_wide( $data ) {
+	$template                   = array();
+	$template[ 'name' ]         = esc_html__( 'Home Portfolio Wide', 'materialize');
+	$template[ 'custom_class' ] = 'tt_vc_template_home_portfolio_wide';
+
+	ob_start();
+	?>[vc_row][vc_column css=".vc_custom_1461403654031{margin-bottom: -35px !important;}"][rev_slider_vc alias="youtube-hero"][/vc_column][/vc_row][vc_row section_content_width="container-fullwidth" css=".vc_custom_1461403585551{margin-bottom: 100px !important;}"][vc_column][tt_portfolio post_limit="9" grid_column="4" grid_padding="no-padding" filter_visibility="hidden" hover_style="hover-two"][/vc_column][/vc_row][vc_row css=".vc_custom_1460301242509{margin-bottom: 80px !important;}"][vc_column][tt_section_title title_alignment="text-center" title_color_option="theme-color" title="Why Choose 69Studio"]Miami introduces the most flexible layout ever to the world of WordPress Themes.
+We provide you with a Toolkit to build your Dreams![/tt_section_title][/vc_column][/vc_row][vc_row css=".vc_custom_1460302305706{padding-bottom: 100px !important;}"][vc_column][tt_icon_blocks border_style="block-style-border" block_hover_style="hover-theme-color"][tt_icon_block show_icon="yes" icon_type="flat-icon" icon_position="icon-position-center" icon_color_option="theme-color" flat_icon="flaticon-certificate3" title="Branding &amp; Identity"]Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla quis lorem ut libero malesuada feugiat[/tt_icon_block][tt_icon_block show_icon="yes" icon_type="flat-icon" icon_position="icon-position-center" icon_color_option="theme-color" flat_icon="flaticon-smartphone97" title="Web Design &amp; Development"]Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla quis lorem ut libero malesuada feugiat[/tt_icon_block][tt_icon_block show_icon="yes" icon_type="flat-icon" icon_position="icon-position-center" icon_color_option="theme-color" flat_icon="flaticon-cart" title="Ecommerce Design"]Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla quis lorem ut libero malesuada feugiat[/tt_icon_block][tt_icon_block show_icon="yes" icon_type="flat-icon" icon_position="icon-position-center" icon_color_option="theme-color" flat_icon="flaticon-paint104" title="UI/UX Design"]Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla quis lorem ut libero malesuada feugiat[/tt_icon_block][tt_icon_block show_icon="yes" icon_type="flat-icon" icon_position="icon-position-center" icon_color_option="theme-color" flat_icon="flaticon-bulb19" title="Inovative Idea"]Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla quis lorem ut libero malesuada feugiat[/tt_icon_block][tt_icon_block show_icon="yes" icon_type="flat-icon" icon_position="icon-position-center" icon_color_option="theme-color" flat_icon="flaticon-mac6" title="PSD To HTML"]Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla quis lorem ut libero malesuada feugiat[/tt_icon_block][/tt_icon_blocks][/vc_column][/vc_row][vc_row css=".vc_custom_1460302561510{padding-top: 60px !important;padding-bottom: 40px !important;background-color: #ff2a40 !important;}"][vc_column][tt_call_to_action title_color_option="custom-color" button_visibility="visible" button_style="btn-outline" button_size="btn-lg" button_position="button-right" title="READY TO WORK WITH US?" title_font_size="25px" title_color="#ffffff" button_text="Message Us" subtitle_font_size="16px"]<span style="color: #ffffff;"> You can talk with us for more about your project.</span>[/tt_call_to_action][/vc_column][/vc_row]
+	<?php
+	$template[ 'content' ] = ob_get_clean();
+	array_unshift( $data, $template );
+	return $data;
+}
+add_filter( 'vc_load_default_templates', 'tt_vc_template_home_portfolio_wide' );

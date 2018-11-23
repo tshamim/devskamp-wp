@@ -1,0 +1,1251 @@
+
+---Downloaded files---
+The import files for: Multipage Demo were successfully downloaded!
+Initial max execution time = 2000
+Files info:
+Site URL = http://localhost/devskamp
+Data file = C:\xampp\htdocs\devskamp/wp-content/uploads/2018/11/demo-content-import-file_2018-11-11__08-35-41.xml
+Widget file = C:\xampp\htdocs\devskamp/wp-content/uploads/2018/11/demo-widgets-import-file_2018-11-11__08-35-41.json
+Customizer file = not defined!
+Redux files:
+materialize_theme_option -> C:\xampp\htdocs\devskamp/wp-content/uploads/2018/11/demo-redux-import-file_0-2018-11-11__08-35-41.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import "Woo Album #1": Invalid post type product
+[WARNING] Failed to import "Ship Your Idea": Invalid post type product
+[WARNING] Failed to import "Ninja Silhouette": Invalid post type product
+[WARNING] Failed to import "Happy Ninja": Invalid post type product
+[WARNING] Failed to import "Woo Singles": Invalid post type product
+[WARNING] Failed to import "Woo Album #4": Invalid post type product
+[WARNING] Failed to import "Woo Logo": Invalid post type product
+[WARNING] Failed to import "Woo Ninja": Invalid post type product
+[WARNING] Failed to import "Premium Quality": Invalid post type product
+[WARNING] Failed to import "Flying Ninja": Invalid post type product
+[WARNING] Failed to import "Ship Your Idea": Invalid post type product
+[WARNING] Failed to import "Patient Ninja": Invalid post type product
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Materialize Popular Posts - No Title - Imported
+Materialize Recent Comments - Recent Comments - Imported
+Categories - Categories - Imported
+Meta - Meta - Imported
+Tag Cloud - Tags - Imported
+
+Footer Sidebar Four Column : 
+
+Visual Editor - About Materialize - Imported
+Navigation Menu - Important Links - Imported
+Materialize Latest Posts - Latest Posts - Imported
+Materialize Flickr Photo Widget - Flickr Photo - Imported
+
+Footer Sidebar Three Column : 
+
+Visual Editor - San Francisco - Imported
+Visual Editor - New York - Imported
+Visual Editor - Bangladesh - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: materialize_theme_option finished successfully!
+
+---pt-ocdi/after_import---
+
